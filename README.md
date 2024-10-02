@@ -5,7 +5,7 @@ A Power BI Dashboard that track KPIs, Compare regional performance, Analyze prod
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data Cleaning & Preparation](#data-cleaning-and-preparation)
+- [Technique Used](#technique-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Finding](#results/findings)
 - [Recommendations](#recommendations)
