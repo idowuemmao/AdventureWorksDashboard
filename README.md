@@ -26,7 +26,7 @@ The Primary dataset used for the analysis is the "AdventureWork Raw Data " conta
 ## Tool
 - Microsoft Power BI [Download Here]("https://microsoft.com")
 - Microsoft Power Query
-- kerrykolosko [Check here]("kerrykolosko.com")
+- kerrykolosko [Check here]("https://kerrykolosko.com")
 - 
 
 ## Technique Used
