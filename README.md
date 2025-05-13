@@ -27,7 +27,6 @@ The Primary dataset used for the analysis is the "AdventureWork Raw Data " conta
 - Microsoft Power BI [Download Here]("https://microsoft.com")
 - Microsoft Power Query
 - kerrykolosko [Check here]("https://kerrykolosko.com")
-- 
 
 ## Technique Used
 - ETL: Extracting, transforming, and cleaning data for robust analytics.
